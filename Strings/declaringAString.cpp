@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm>
 #include <string>     //To use strings in a program, you need to include a header called string.
 using namespace std;
 int main()
