@@ -1,5 +1,6 @@
-#include<iostream>
-#include<algorithm>
+#include <iostream>
+#include <algorithm>
+#include <string>     //To use strings in a program, you need to include a header called string.
 using namespace std;
 int main()
 {
@@ -8,14 +9,14 @@ int main()
     cin >> str;                  // i/p -- Bhoomika sahu
     cout << str << endl;         // o/p -- Bhoomika
 
-    // To take character and convert it as a sting 
+    // It declares a string of size 4 with all characters ‘b’. 
     string str1(4,'b');   
     cout << str1 << endl;        // o/p -- bbbb
 
-    string str2 = "BhoomikaSahu";
-    cout << str2 << endl;        //
+    string str2 = "BhoomikaSahu"; // It declares a string of value “BhoomikaSahu”
+    cout << str2 << endl;         // o/p -- BhoomikaSAhu
 
-    // getline() is use for input a line
+    // getline() -- To input the string with space we use getline() function instead of cin.
     string str3;
     getline(cin, str3);          // i/p -- This is getline fun
     cout << str3 << endl;        // o/p -- This is getline fun
