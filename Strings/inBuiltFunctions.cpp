@@ -4,29 +4,17 @@
 using namespace std;
 int main()
 {
-    // Normal input and output 
-    string str;
-    cin >> str;                  // i/p -- Bhoomika sahu
-    cout << str << endl;         // o/p -- Bhoomika
-
-    // It declares a string of size 4 with all characters ‘b’. 
-    string str1(4,'b');   
-    cout << str1 << endl;        // o/p -- bbbb
-
-    string str2 = "BhoomikaSahu"; // It declares a string of value “BhoomikaSahu”
-    cout << str2 << endl;         // o/p -- BhoomikaSAhu
-
-    // getline() -- To input the string with space we use getline() function instead of cin.
-    string str3;
-    getline(cin, str3);          // i/p -- This is getline fun
-    cout << str3 << endl;        // o/p -- This is getline fun
-
-    // append() is use for concatenate two strings
-    string s1 = "Bhoomi";
+    //append(): Inserts additional characters at the end of the string (can also be done using ‘+’ or ‘+=’ operator). 
+    //Its time complexity is O(N) where N is the size of the new string.
+    string s1 = "Bhoomika";
     string s2 = "Bhoomi";
-    cout << s1 + s2 << endl;      // i/p -- BhoomiBhoomi
+    cout << s1 + s2 << endl;      // o/p -- BhoomikaBhoomi
     //s1.append(s2);
-    cout << s1 << endl;           // i/p -- BhoomiBhoomi
+    cout << s1 << endl;           // o/p -- BhoomikaBhoomi
+    
+    //assign(): Assigns new string by replacing the previous value (can also be done using ‘=’ operator).
+    s2.assign("Bhoomika")
+        
 
     // To print string index
     cout << s1[2] << endl;        // o/p -- o   
