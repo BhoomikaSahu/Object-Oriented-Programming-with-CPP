@@ -1,0 +1,1 @@
+cout.put(ch);
