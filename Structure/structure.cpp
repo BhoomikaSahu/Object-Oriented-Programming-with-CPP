@@ -21,7 +21,7 @@ int main(){
     cout << "Enter number of students : ";
     cin >> n; 
     student s[n];               // Declare a variable of student datatype Without typedef
-    fc f[n];                    // Declare a variable of faculty datatype Using typrdef
+    fc f[n];                    // Declare a variable of faculty datatype Using typedef
     
     for(int i=0; i<n; i++){
         cout << i+1 << ". " << "Name : ";

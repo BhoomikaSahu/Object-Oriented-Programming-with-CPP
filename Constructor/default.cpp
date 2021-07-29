@@ -9,24 +9,27 @@ class student{
     char gender;
     void read()
     {
-        cin >> name ;
+        cout << "Name : ";
+        cin >> name;
+        cout << "Age : ";
         cin >> age;
-        cin >> gender ;
+        cout << "Gender : ";
+        cin >> gender;
     }// Read Function
     void print()
     {
-        cout << name << endl ;
-        cout << age << endl ;
-        cout << gender << endl ;
+        cout << "Name : " << name << endl ;
+        cout << "Age : " << age << endl ;
+        cout << "Gender : " << gender << endl ;
     }// Print Function
 };// Class of student
 
 int main()
 {
     int n;
-    cout << "Enter no. of Entities" ;
+    cout << "Enter no. of Entities : " ;
     cin >> n;
-    student arr[n];         // Declare Object
+    student arr[n];         // Declare an Object
     for(int i=0; i<n; i++)
     {
         arr[i].read();      // Read Entities
