@@ -7,9 +7,7 @@
         object is instantiated.
 
 OBJECT:-
-        Object is a run-time entity. It is an instance of the class. An object can
-        represent a person, place or any other item. An object can operate on
-        both data members and member functions.
+        Object is a run-time entity. It is an instance of the class. An object can represent a person, place or any other item. An object can operate on both data members and member functions.
         
         Ex : student s = new student();
     Note :- 
