@@ -49,3 +49,42 @@ In OOP a logic is right base on the object with this features
 ![Multiple inheritance](https://user-images.githubusercontent.com/70888716/140649547-4916f68a-331c-4775-b701-383b0c9f7fe2.jpeg)
 - Here we can not use abstract class just because their may be duplicate values .that is ,we use interfaces.
 But we need to clear that both methods are used abstraction.
+
+## Why we need OOPs in Programming language?
+Following two concept is explain everything the use of OOPs.
+
+1. Duplicate code is a Bad.
+
+2. Code will always be changed.
+
+So, above statement proves, OOPs is provides code reusability which reduce the duplication of code because once you have duplicate code, you have make changes everywhere which leads to performance. Code can be changed anytime or requirement of application changed anytime so when you want to make changes in your application, OOPs makes it easier.
+
+#### Features of OOPs.
+
+There are three main features of OOPS.
+
+1. Abstraction: Learn abstraction here(PHP 5 Abstract classes and Methods)
+
+2. Polymorphism : is a feature that allows one interface to be used for a general class of actions. It’s an operation may exhibit different behavior in different instances.
+
+3. Inheritance : The process by which one class acquires the properties and functionalities of another class. Inheritance provides the idea of reusability of code and each sub class defines only those features that are unique to it.
+
+
+### Advantages of OOP
+
+Object-Oriented Programming has the following advantages:
+
+- OOP provides a clear modular structure for programs which makes it good for defining abstract datatypes where implementation details are hidden and the unit has a clearly defined interface.
+- OOP makes it easy to maintain and modify existing code as new objects can be created with small differences to existing ones.
+- OOP provides a good framework for code libraries where supplied software components can be easily adapted and modified by the programmer. This is particularly useful for developing graphical user interfaces.
+
+
+## Limitations of OOPs
+- #### Steep learning curve: 
+      The thought process involved in object-oriented programming may not be natural for some people, and it can take time to get used to it. It is complex to create programs based on interaction of objects. Some of the key programming techniques, such as inheritance and polymorphism, can be challenging to comprehend initially.
+- #### Larger program size:
+      Object-oriented programs typically involve more lines of code than procedural programs.
+- #### Slower programs:
+      Object-oriented programs are typically slower than procedurebased programs, as they typically require more instructions to be executed.
+- #### Not suitable for all types of problems: 
+      There are problems that lend themselves well to functional-programming style, logic-programming style, or procedure-based programming style, and applying object-oriented programming in those situations will not result in efficient programs. 
