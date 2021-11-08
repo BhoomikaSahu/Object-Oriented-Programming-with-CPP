@@ -60,15 +60,15 @@ Following two concept is explain everything the use of OOPs.
 
 So, above statement proves, OOPs is provides code reusability which reduce the duplication of code because once you have duplicate code, you have make changes everywhere which leads to performance. Code can be changed anytime or requirement of application changed anytime so when you want to make changes in your application, OOPs makes it easier.
 
-#### Features of OOPs.
+### Features of OOPs.
 
 There are three main features of OOPS.
 
-1. Abstraction: Learn abstraction here(PHP 5 Abstract classes and Methods)
+1. ***Abstraction***: Learn abstraction here(PHP 5 Abstract classes and Methods)
 
-2. Polymorphism : is a feature that allows one interface to be used for a general class of actions. It’s an operation may exhibit different behavior in different instances.
+2. ***Polymorphism***: is a feature that allows one interface to be used for a general class of actions. It’s an operation may exhibit different behavior in different instances.
 
-3. Inheritance : The process by which one class acquires the properties and functionalities of another class. Inheritance provides the idea of reusability of code and each sub class defines only those features that are unique to it.
+3. ***Inheritance*** : The process by which one class acquires the properties and functionalities of another class. Inheritance provides the idea of reusability of code and each sub class defines only those features that are unique to it.
 
 
 ### Advantages of OOP
@@ -81,11 +81,7 @@ Object-Oriented Programming has the following advantages:
 
 
 ## Limitations of OOPs
-- #### Steep learning curve: 
-      The thought process involved in object-oriented programming may not be natural for some people, and it can take time to get used to it. It is complex to create programs based on interaction of objects. Some of the key programming techniques, such as inheritance and polymorphism, can be challenging to comprehend initially.
-- #### Larger program size:
-      Object-oriented programs typically involve more lines of code than procedural programs.
-- #### Slower programs:
-      Object-oriented programs are typically slower than procedurebased programs, as they typically require more instructions to be executed.
-- #### Not suitable for all types of problems: 
-      There are problems that lend themselves well to functional-programming style, logic-programming style, or procedure-based programming style, and applying object-oriented programming in those situations will not result in efficient programs. 
+- **Steep learning curve:** The thought process involved in object-oriented programming may not be natural for some people, and it can take time to get used to it. It is complex to create programs based on interaction of objects. Some of the key programming techniques, such as inheritance and polymorphism, can be challenging to comprehend initially.
+- **Larger program size:** Object-oriented programs typically involve more lines of code than procedural programs.
+- **Slower programs:** Object-oriented programs are typically slower than procedurebased programs, as they typically require more instructions to be executed.
+- **Not suitable for all types of problems:** There are problems that lend themselves well to functional-programming style, logic-programming style, or procedure-based programming style, and applying object-oriented programming in those situations will not result in efficient programs. 
