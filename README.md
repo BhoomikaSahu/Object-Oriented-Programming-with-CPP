@@ -16,7 +16,7 @@ Tip: The "Don't Repeat Yourself" (DRY) principle is about reducing the repetitio
 ## How OOPs is related to real world?
 
 In OOP a logic is right base on the object with this features
-### abstraction
+### Abstraction
 - When we are making a call it only concatenate about the numbers and display that in screen,we really do not know how this connect with other number.
 - We send data from Bluetooth we really do not know how it connect with other phone or devices.
 
