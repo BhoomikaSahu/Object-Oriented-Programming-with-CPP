@@ -83,5 +83,5 @@ Object-Oriented Programming has the following advantages:
 ## Limitations of OOPs
 - **Steep learning curve:** The thought process involved in object-oriented programming may not be natural for some people, and it can take time to get used to it. It is complex to create programs based on interaction of objects. Some of the key programming techniques, such as inheritance and polymorphism, can be challenging to comprehend initially.
 - **Larger program size:** Object-oriented programs typically involve more lines of code than procedural programs.
-- **Slower programs:** Object-oriented programs are typically slower than procedurebased programs, as they typically require more instructions to be executed.
+- **Slower programs:** Object-oriented programs are typically slower than procedure based programs, as they typically require more instructions to be executed.
 - **Not suitable for all types of problems:** There are problems that lend themselves well to functional-programming style, logic-programming style, or procedure-based programming style, and applying object-oriented programming in those situations will not result in efficient programs. 
