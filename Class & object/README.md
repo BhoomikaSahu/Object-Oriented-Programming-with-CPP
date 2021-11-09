@@ -16,9 +16,9 @@ In C++, a structure is the same as a class except for a few differences. The mos
 Following are the points that expound on this difference: 
 1) Members of a class are private by default and members of a structure are public by default.
 
-***For example:*** program 1 fails in compilation and program 2 works fine.
+***For example:*** program 1 fails in compilation and program 2 works fine. [Link](https://github.com/BhoomikaSahu/Object-Oriented-Programming-with-CPP/blob/12ae9cdb52ec5a6e4d4da9c3d3edd4bf5cbba09c/Class%20&%20object/structAndClass.cpp)
 
 2) When deriving a struct from a class/struct, the default access-specifier for a base class/struct is public. And when deriving a class, the default access specifier is private. 
 
-***For example:*** program 3 fails in compilation and program 4 works fine. 
+***For example:*** program 3 fails in compilation and program 4 works fine. [Link](https://github.com/BhoomikaSahu/Object-Oriented-Programming-with-CPP/blob/12ae9cdb52ec5a6e4d4da9c3d3edd4bf5cbba09c/Class%20&%20object/structAndClass.cpp) 
 
