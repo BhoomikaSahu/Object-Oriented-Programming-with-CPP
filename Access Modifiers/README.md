@@ -20,7 +20,7 @@ The class members declared as private can be accessed only by the member functio
 *Example:* [Link](https://github.com/BhoomikaSahu/Object-Oriented-Programming-with-CPP/blob/6b0c8e9de08e6445e0a7298859be3000fc5fe135/Access%20Modifiers/private.cpp)
 
 ### Protected
-Protected: Protected access modifier is similar to private access modifier in the sense that it can’t be accessed outside of it’s class unless with the help of friend class, the difference is that the class members declared as Protected can be accessed by any subclass(derived class) of that class as well. 
+Protected access modifier is similar to private access modifier in the sense that it can’t be accessed outside of it’s class unless with the help of friend class, the difference is that the class members declared as Protected can be accessed by any subclass(derived class) of that class as well. 
 
 ***Note:*** This access through inheritance can alter the access modifier of the elements of base class in derived class depending on the modes of Inheritance.
 
